@@ -1,6 +1,6 @@
 # datadownloader backend
 
-git clone https://github.com/finepik/datadownloader.git backend
+git clone https://github.com/finepik/file-loader-backend.git backend
 cd backend
 python -m venv venv
 sudo -s
